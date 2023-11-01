@@ -52,7 +52,7 @@ a {
     text-decoration: none;
 }
 
-/* Adjusted the font-size to 20px */
+/* Adjusted the font-size to 18px */
 
 p {
     font-size: 18px;
@@ -67,6 +67,14 @@ p {
     background-position: center;
 }
 
+/* Moved .content up 2 spots to fix the order*/
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,12 +83,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
