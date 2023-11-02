@@ -13,8 +13,8 @@ Right click the website and inspect the HTML and CSS code!
 
 ## Screenshots
 
-![App Screenshot](./assets/images/main-webpage1.jpg)
-![App Screenshot](./assets/images/main-webpage2.jpg)
+![Main Webpage Top Half](./assets/images/main-webpage1.jpg)
+![Main Webpage Bot Half](./assets/images/main-webpage2.jpg)
 
 ## Credits
 
